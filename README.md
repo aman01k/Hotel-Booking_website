@@ -17,7 +17,7 @@ A simple Airbnb-inspired UI for listing and booking properties, built using **Re
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/airbnbStarter.git
+   git clone https://github.com/aman01k/Hotel-Booking_website.git
 
 #Install the dependencies:
 -  npm install
